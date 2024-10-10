@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matt-t-123&label=Profile%20views&color=0e75b6&style=flat" alt="matt-t-123" /> </p>
 
-- 👨‍💻 All of my projects are available on [my github](my github)
+- 👨‍💻 All of my projects are available on my github
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **on my site**
+- 📫 Reach me through my socials **on my site**
 
 - ⚡ Fun fact **Coding with java is like a love-hate relationship**
 

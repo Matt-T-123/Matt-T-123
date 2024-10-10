@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matt-t-123&label=Profile%20views&color=0e75b6&style=flat" alt="matt-t-123" /> </p>
 
-- 👨‍💻 All of my projects are available on my github
+- 👨‍💻 All of my projects are available **on my github**
 
 - 💬 Ask me about **anything**
 

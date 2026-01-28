@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matt!</h1>
-<h3 align="center">I'm a Software Engineer currently in University on Year 3</h3>
+<h3 align="center">I'm a Software Engineer currently in University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matt-t-123&label=Profile%20views&color=0e75b6&style=flat" alt="matt-t-123" /> </p>
 
